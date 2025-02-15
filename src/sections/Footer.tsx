@@ -78,7 +78,7 @@ export const Footer = () => {
           ))}
         </div>
         <p className="text-gray-500 text-sm">
-        &copy; Frontend Tribe, All rights reserved.</p>
+        &copy; Fazila Taqveem, All rights reserved.</p>
       </div>
     </div>
   </footer>;
